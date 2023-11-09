@@ -1,0 +1,3 @@
+[submodule "net8.NativeAOT"]
+	path = net8.NativeAOT
+	url = https://github.com/arthasdev/net8.NativeAOT
